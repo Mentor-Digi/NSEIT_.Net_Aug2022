@@ -1,0 +1,14 @@
+Topics covered today:
+1. Git and Github.
+2. Basics of Java.
+3. Variable, Data Type and Expressions.
+4. Basic Arithmetic Operations.
+
+Coding Problems that has been given as a task:
+1. Basic Multiplications.
+2. Multiplication Table.
+3. Fibonacci Series.
+4. Print Odd number multiplications with 5.
+5. Square and print the numbers in revers.
+6. Odd numbers multiplication without using modulus.
+7. Star Pattern.
