@@ -1,0 +1,5 @@
+Tasks given.
+
+Day 05:
+	1. Mini Project should be done using Interface, Lambda, ArrayList, Regular Expression, File Handling.
+

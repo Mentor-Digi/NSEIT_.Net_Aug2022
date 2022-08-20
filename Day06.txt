@@ -1,0 +1,7 @@
+Tasks given.
+
+Day 06:
+	1. Right Join.
+	2. Left Join.
+	3. Inner Join.
+	4. Mini Project

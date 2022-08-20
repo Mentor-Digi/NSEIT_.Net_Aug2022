@@ -1,0 +1,4 @@
+Tasks given.
+Day 02:
+	1. Create a Pyramid using User Input.
+	2. Calculator using Encapsulation (Getter and Setter).

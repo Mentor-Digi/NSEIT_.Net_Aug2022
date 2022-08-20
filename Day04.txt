@@ -1,0 +1,5 @@
+Tasks given.
+Day 04:
+	1. ATM.
+	2. Mini Project
+

@@ -1,0 +1,15 @@
+Tasks given.
+
+Day 03:
+	1. Employee Details using Encapsulation (Getter and Setter).
+	2. Calculator App using Encapsulation (Getter and Setter).
+	3. Project (APP Store).
+	4. Difference between Protected and Default.
+	5. About Super Keyword.
+	6. About Final Keyword in Method and Class.
+	7. Print HELLO WORLD using Interface.
+	8. Print HELLO WORLD using Method Overriding.
+	9. Print HELLO WORLD using Method Overloading.
+	10. Print HELLO WORLD using Array.
+	11. Create Array that should support 4 numbers and print the sum of those numbers.
+
