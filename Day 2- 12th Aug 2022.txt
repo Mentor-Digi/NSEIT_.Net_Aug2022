@@ -1,0 +1,17 @@
+Day 2- 12th Aug 2022
+
+Intellij Installation.
+
+Task 
+1. Diamond pattern program
+
+Hands-on training in Intellij
+
+Core Java
+1. Class
+2. Object
+3. Variable
+4. Constructor
+5. Method
+5. Encapsulation
+6. Abstraction
