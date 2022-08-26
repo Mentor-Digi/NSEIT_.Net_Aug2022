@@ -1,0 +1,7 @@
+
+Topics Covered
+1. Revised Spring boot JPA
+2. Revised SPring boot Rest Controller
+
+Tasks
+1. To write a restfull webservice using spring boot JPA
