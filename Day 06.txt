@@ -1,7 +1,21 @@
 Tasks given.
+Day 06
 
-Day 06:
-	1. Right Join.
-	2. Left Join.
-	3. Inner Join.
-	4. Mini Project
+mysql
+DML
+DDL
+JDBC
+ prepare statement
+ database connectivity
+maven
+git
+
+Tasks:
+
+joins
+ inner
+ outera
+ right
+ left
+
+BookMyShow mini project - day02- create the model, service and utils for user, movie, history 
