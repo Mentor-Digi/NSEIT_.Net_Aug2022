@@ -1,5 +1,27 @@
-Tasks given.
+Topics:
 
-Day 05:
-	1. Mini Project should be done using Interface, Lambda, ArrayList, Regular Expression, File Handling.
+java string methods
+regular expression
+multi threading
+reflection
+date format
+conventions
+collections
+list
+jdbc
+internalisation
+threads
+synchronisation
+runtime and compile time polymorphism
+API
+enums
+linked list
+hash maps
+hash set
+lambda
+file handling
 
+MINI PROJECT:
+
+BookMyShow (start the individual mini project day 01- create the project in main class and 
+get the output with help of user choice get the output in main class itself)
