@@ -1,4 +1,19 @@
 Tasks given.
 
 Day 07:
-	1. Mini Project
+	1. Mini ProjectTopics:
+
+Initialization
+staging
+remote connection
+commit
+branching
+push
+merging conflict
+
+Maven
+ Maven importing
+ usage
+
+BookMyShow-mini project- day03-add auth for user login and register purpose
+ and complete the project 
