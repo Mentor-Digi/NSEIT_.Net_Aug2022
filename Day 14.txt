@@ -1,0 +1,24 @@
+HTML
+ Basics
+ Lists
+ Images
+ Links
+ Tables
+ Forms
+
+CSS 
+ Selector
+ Box model
+ Dimensions
+ Positions
+ Font,text color
+
+Recap:
+Springboot Security- 
+ role base 
+ basic auth
+
+Tasks:
+
+- HTML,CSS web pages (creating the forms  like login,register and menu list for main project)
+- To Add role base authentication in main project
