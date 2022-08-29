@@ -9,3 +9,6 @@ Topics covered:
 
 Tasks covered:
 1. Program using JPA Entity Relationships.
+
+ student_course project - creating the student and course class in model, repository and service 
+and apply the enity relationship in manytomany and mapping the student and course table. 
