@@ -1,5 +1,20 @@
-Tasks given.
-Day 04:
-	1. ATM.
-	2. Mini Project
+ATM project- mini project( day 01-create the basic atm project like withdrawl- it check the balance and withdraw the amount 
+if balance is lower then withdraw amount it shows insufficient balance,day 02-credits- it add the credit amount in account,
+view balance and exit)
+day 03- complete the project
+
+keywords
+Exceptions
+Method overloading
+Arrays
+
+Topics:
+
+wrapper class
+javadoc tools
+aggregation (has a relationship)
+cloning
+JVM,JRE,JDK
+Path setting
+Abstract class and method
 
