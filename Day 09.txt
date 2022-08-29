@@ -12,3 +12,11 @@ Projects Covered:
 1. Binary Search using Java.
 2. Binary Search using Spring.
 3. ToDo List Application using Spring Boot.
+
+project
+
+>springboot-todo - create the project in springboot add lombok dependency and add model,
+repository and service for todo and use different annotations.
+rRep
+>springexercise- using the annotation like @ComponentScan,@Service,@Repository and 
+creating the bean in AnnotationConfigurationApplicationContext
