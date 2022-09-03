@@ -1,0 +1,9 @@
+Topics
+-- Logger module 
+-- Base API response for main project
+
+Tasks
+-- Cards using html css
+-- Admin portal bootsrap
+-- To complete auth module for main project
+
