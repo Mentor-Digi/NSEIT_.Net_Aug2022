@@ -1,0 +1,7 @@
+Project
+
+-- students have created the basic backend setup for project.
+-- added spring security for authentication and authorizateion
+-- added slf4j for loggin
+-- added base response for all the end points
+-- created the tables(entities)
